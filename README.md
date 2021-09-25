@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development And Java Programming.
 - 🌱 I’m currently learning Java Programming.
 - 💞️ I’m looking to collaborate on Web Development
-- 📫 How to reach me @surajvrathodofficial@gmail.com
+- 📫 How to reach me @surajrathodofficial@gmail.com
 
 <!---
 surajvrathod/surajvrathod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
